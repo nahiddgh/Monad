@@ -7,3 +7,9 @@ magmastaking.xyz
 🟪 Stake some $MON
 🟪 And earn gMON
 📊 You can check your points in the Points tab
+🟣Day 2
+
+🟪 Wonad is part of the Monad ecosystem thst  you can stake your NFT collections and earn points in return.
+🟪 Your points help you climb the leaderboard!
+
+app.thiswonad.xyz/dashboard
