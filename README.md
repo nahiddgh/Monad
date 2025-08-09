@@ -13,3 +13,9 @@ magmastaking.xyz
 🟪 Your points help you climb the leaderboard!
 
 app.thiswonad.xyz/dashboard
+
+🟪Day 3
+
+🟣 Memebridge lets you do two cool things:
+1️⃣ From the Deploy tab, deploy both Basic and ERC20 contracts
+2️⃣ Then head over to the NFT tab and mint an NFT on the Monad network
