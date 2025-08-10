@@ -19,3 +19,8 @@ app.thiswonad.xyz/dashboard
 🟣 Memebridge lets you do two cool things:
 1️⃣ From the Deploy tab, deploy both Basic and ERC20 contracts
 2️⃣ Then head over to the NFT tab and mint an NFT on the Monad network
+🟪Day 4
+
+🟣 Madhouse is a super simple swap site .no extra tabs, just swap.
+Do a few transactions there, but don’t repeat them back-to-back. Mix it up with other Monad daily tasks in between.
+https://madhouse.ag/
