@@ -24,3 +24,7 @@ app.thiswonad.xyz/dashboard
 🟣 Madhouse is a super simple swap site .no extra tabs, just swap.
 Do a few transactions there, but don’t repeat them back-to-back. Mix it up with other Monad daily tasks in between.
 https://madhouse.ag/
+
+Day 5
+🟣 Dusted is one of the most popular sites on Monad definitely add it to your daily list
+1️⃣ After entering the site, go to the Rewards tab on the left sidebar. Connect your Twitter and follow the project’s Twitter to get a booster.@monad @dusted_app
