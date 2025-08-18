@@ -30,3 +30,5 @@ Day 5
 1️⃣ After entering the site, go to the Rewards tab on the left sidebar. Connect your Twitter and follow the project’s Twitter to get a booster.@monad @dusted_app
 🟣new website on monad ecosystem 
 https://gmonad.lumiterra.net/lumonad
+
+be aware of scam links sharing these days on Twitter and tg🤌🏻
