@@ -32,3 +32,5 @@ Day 5
 https://gmonad.lumiterra.net/lumonad
 
 be aware of scam links sharing these days on Twitter and tg🤌🏻
+
+dc roles are now close and we can't get anyrole anymore
