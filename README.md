@@ -33,4 +33,5 @@ https://gmonad.lumiterra.net/lumonad
 
 be aware of scam links sharing these days on Twitter and tg🤌🏻
 
-dc roles are now close and we can't get anyrole anymore
+dc roles are now close and we can't get anyrole anymore.
+we had enough activity so far so from now on we'll just do daily transactions just to stay active
